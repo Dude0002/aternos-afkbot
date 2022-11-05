@@ -1,6 +1,6 @@
 {
-	"host": "gulpgulttime.aternos.me",
-	"port": "42133",
+	"host": "magiccraftz.aternos.me",
+	"port": "35763",
 	"username": "AnotherPlayer",
 	"logger": [ true
 		, "true : displays not necessary logs. (ex: key input logs)",
