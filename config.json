@@ -1,7 +1,7 @@
 {
 	"host": "magiccraftz.aternos.me",
-	"port": "35763",
-	"username": "AnotherPlayer",
+	"port": "14087",
+	"username": "GG_Labs_Help",
 	"logger": [ true
 		, "true : displays not necessary logs. (ex: key input logs)",
 		"false : displays only necessary logs."
